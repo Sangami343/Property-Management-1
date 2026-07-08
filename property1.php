@@ -39,7 +39,7 @@ echo "Error inserting property data.";
 }
 }
 
-
+// Sangami 
 echo "ajax";
 if (isset($_POST["unit"]) && $_POST["unit"] == 'addunit') {
     
