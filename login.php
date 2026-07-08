@@ -87,6 +87,7 @@ button:hover {
 </head>
 
 <body>
+    <!--This is login form-->
     <div>
         <h1>LOGIN PAGE</h1>
         <form>
